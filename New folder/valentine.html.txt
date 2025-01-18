@@ -51,13 +51,7 @@
             </select>
             <br><br>
 
-            <button type="submit">Submit</button>
-        </form>
-
-        <div id="survey-results">
-            <h3>Your selected options:</h3>
-            <ul id="results-list"></ul>
-        </div>
+            <text ="Screenshot">Screenshot your results and send it to me</text>
     </section>
 
     <footer>
